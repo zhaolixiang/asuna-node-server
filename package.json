@@ -138,7 +138,7 @@
     "swagger-ui-express": "^4.1.2",
     "typeorm": "^0.2.22",
     "validator": "^12.1.0",
-    "wx-server-sdk": "^1.7.0",
+    "wx-server-sdk": "^1.7.1",
     "xlsx": "^0.15.4"
   }
 }
