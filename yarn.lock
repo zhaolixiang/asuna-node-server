@@ -10579,10 +10579,10 @@ ws@~6.1.0:
   dependencies:
     async-limiter "~1.0.0"
 
-wx-server-sdk@^1.7.0:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/wx-server-sdk/-/wx-server-sdk-1.7.0.tgz#304a678671e748d979f705552fb17bb5e5627942"
-  integrity sha512-WVXo1Rl30LZE5KPsdfdAMG4r38MA3qkJ/KzdaRr3oaRqgrnZgtbCs0gcLOKR3oGrIRSBmmjdTAVNk9ThfOfxBA==
+wx-server-sdk@^1.7.1:
+  version "1.7.1"
+  resolved "https://registry.yarnpkg.com/wx-server-sdk/-/wx-server-sdk-1.7.1.tgz#feb3599548faac9ad9028d774b1965ac1112ff54"
+  integrity sha512-4FGYnSRcw8klx5d1eSddQPVtU8YKKJKjfWhjjvUKt4I0Zb6LurDQ/iNUg5COMhLQvra/wy+v3ybFbCbtIpwpEw==
   dependencies:
     protobufjs "6.8.8"
     tcb-admin-node "1.19.1"
