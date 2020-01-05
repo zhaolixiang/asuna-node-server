@@ -504,10 +504,10 @@
     fastify-formbody "3.1.0"
     path-to-regexp "3.2.0"
 
-"@nestjs/platform-socket.io@^6.10.13":
-  version "6.10.13"
-  resolved "https://registry.yarnpkg.com/@nestjs/platform-socket.io/-/platform-socket.io-6.10.13.tgz#be493dae9ea9c19f291bf0db1166dd198bdf6f9f"
-  integrity sha512-PRA8mlxxbWqW7iupf4kW5eHC6U6HJjRg2PjqKcMoFcQgW7elKTtiuOgxPY38dz582MtCUaSWTIf4P83UiGR8Dg==
+"@nestjs/platform-socket.io@^6.10.14":
+  version "6.10.14"
+  resolved "https://registry.yarnpkg.com/@nestjs/platform-socket.io/-/platform-socket.io-6.10.14.tgz#c9416837289d9d7bea9a44e64f1eb464a04d67eb"
+  integrity sha512-+vWxpgLPagSwL6UWT1EqrlzKa+KzGTNT0/PSJMSRVCCiNXCDgMibw57+d+NRNZNlby8sXJ3LYgUEcBaEloqYvg==
   dependencies:
     socket.io "2.3.0"
 
